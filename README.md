@@ -36,8 +36,8 @@ Uma aplicação de lista de tarefas desenvolvida com React, utilizando conceitos
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/lista-de-tarefas.git
-   cd lista-de-tarefas
+   git clone https://(https://github.com/todo-react-avancado.)
+   cd todo-react-avancado
    ```
 
 2. Instale as dependências:
